@@ -1,5 +1,11 @@
 [package]
 name = "emoji-gen"
+description = "Emoji import file generator for calckey"
+license = "MIT"
+readme = "README.md"
+homepage = "https://codeberg.org/calckey/emoji-gen"
+repository = "https://codeberg.org/calckey/emoji-gen"
+authors = ["cutestnekoaqua <waterdev@galaxcrow.de>"]
 version = "0.1.0"
 edition = "2021"
 
